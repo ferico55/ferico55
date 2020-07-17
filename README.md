@@ -13,4 +13,4 @@ Flickr - My photo archives: [ferico55](https://www.flickr.com/photos/152285167@N
 
 Twitter - Micro blogging they say: [@F55s](http://twitter.com/F55s)
 
-Tokopedia's Engineering Blogs - You should be able to find my post: [Tokopedia Engineering](https://medium.com/tokopedia-engineering)
+Tokopedia's Engineering Blog - You should be able to find my post: [Tokopedia Engineering](https://medium.com/tokopedia-engineering)
